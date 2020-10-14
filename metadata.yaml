@@ -1,5 +1,8 @@
 _repo: Nazi-Conspiracy-and-Aggression-Volume-03-of-11_63350
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: images/cover.jpg
 creator:
   author:
     agent_name: United States. Office of Chief of Counsel for the Prosecution of Axis
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '49079'
     url: http://www.gutenberg.org/2009/agents/49079
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63350#Nazi-Conspiracy-and-Aggression-Volume-03-of-11
 gutenberg_issued: '2020-09-30'
 gutenberg_type: Text
 identifiers:
