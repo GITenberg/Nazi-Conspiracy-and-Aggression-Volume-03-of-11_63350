@@ -1,0 +1,32 @@
+_repo: Nazi-Conspiracy-and-Aggression-Volume-03-of-11_63350
+_version: 0.0.1
+creator:
+  author:
+    agent_name: United States. Office of Chief of Counsel for the Prosecution of Axis
+      Criminality
+    aliases:
+    - Office of United States Chief of Counsel for Prosecution of Axis Criminality
+    - United States. Chief of Counsel for the Prosecution of Axis Criminality, Office
+      of
+    gutenberg_agent_id: '49079'
+    url: http://www.gutenberg.org/2009/agents/49079
+description: ''
+gutenberg_issued: '2020-09-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63350'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'KZ'
+- !lcsh 'World War, 1939-1945 -- Atrocities'
+- !lcc 'D731'
+- !lcsh 'Nuremberg Trial of Major German War Criminals, Nuremberg, Germany, 1945-1946'
+- !lcsh 'World War, 1939-1945 -- Germany'
+- !lcsh 'War crime trials -- Germany -- Nuremberg'
+- !lcsh 'Germany -- Politics and government -- 1933-1945'
+- GITenberg
+title: Nazi Conspiracy and Aggression, Volume 03 (of 11)
+url: http://www.gutenberg.org/ebooks/63350
